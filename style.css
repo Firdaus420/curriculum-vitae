@@ -1,0 +1,77 @@
+/* style.css */
+
+/* Style untuk header */
+header {
+  background-color: #007bff; /* Warna latar belakang biru */
+  color: #fff; /* Warna teks putih */
+  padding: 20px;
+}
+
+/* Style untuk judul halaman */
+h1 {
+  font-size: 2.5rem; /* Ukuran font besar */
+}
+
+/* Style untuk bagian profil */
+#profil {
+  margin-top: 30px; /* Jarak dari atas */
+}
+
+/* Style untuk gambar profil */
+img {
+  border-radius: 0%; /* Mengubah gambar menjadi lingkaran */
+  max-width: 200%;
+  height: auto;
+}
+
+/* Style untuk bagian pengalaman */
+#pengalaman {
+  margin-top: 30px; /* Jarak dari bagian profil */
+}
+
+/* Style untuk tabel */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style untuk header tabel */
+th {
+  background-color: #007bff; /* Warna latar belakang biru */
+  color: #fff; /* Warna teks putih */
+  padding: 10px;
+}
+
+/* Style untuk sel dalam tabel */
+td,
+th {
+  border: 1px solid #ddd; /* Garis tepi */
+  padding: 10px;
+}
+
+/* Style untuk bagian pendidikan */
+#pendidikan {
+  margin-top: 30px; /* Jarak dari bagian pengalaman */
+}
+
+/* Style untuk bagian kontak */
+#kontak {
+  margin-top: 30px; /* Jarak dari bagian pendidikan */
+}
+
+/* Style untuk link */
+a {
+  color: #007bff; /* Warna teks biru */
+}
+
+/* Style untuk list */
+ul,
+ol {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Style untuk paragraf */
+p {
+  line-height: 1.6; /* Jarak antar baris */
+}
